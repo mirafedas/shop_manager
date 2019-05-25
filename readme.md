@@ -1,5 +1,5 @@
 ## Project name: Shop Manager Application
-[Demo](https://myrosvas.github.io/shop_manager/)
+[Demo](http://shop-finances-manager.herokuapp.com/)
 
 > This is a simple command-line-like tool to manage finanses in the small shop. There are four commands you can use:
 * purchase 2019-04-25 12 USD “Photo Frame”  — adds purchases made by customers in any supported currency (e.g. USD, EUR, PLN, etc.) to the list of purchases. Purchases for various dates could be added in any order. Command accepts the following parameters:
