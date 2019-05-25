@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 1000px;
+    padding-top: 50px;
+    background: -webkit-linear-gradient(70deg, #d2e26b 40%, #dbc4e0 40%);
+    background: -o-linear-gradient(70deg, #d2e26b 40%, #dbc4e0 40%);
+    background: -moz-linear-gradient(70deg, #d2e26b 40%, #dbc4e0 40%);
+    background: linear-gradient(70deg, #d2e26b 40%, #dbc4e0 40%);
+    font-family: 'Rubik', sans-serif;
+}
+
+section {
+    color: grey;
+    font-size: 14px;
+}
+
+input {
+    width: 300px;
+    height: 20px;
+    margin: 20px;
+}
+
+button {
+    width: 70px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    margin: 10px;
+    background-color: #abc500;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+}
